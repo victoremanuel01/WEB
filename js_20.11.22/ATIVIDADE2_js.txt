@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 2</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+    <script src="main.js"></script>
+    
+</body>
+</html>
+
+alert('Digite 2 números a seguir: ');
+    let n1 = Number(prompt('1- '));
+    let n2 = Number(prompt('2- '));
+
+if (n1>n2){
+
+    alert(`Seu primeiro número é maior que o segundo!`);
+}
+if (n1<n2){
+
+    alert(`Seu segundo número é maior que o primeiro!`);
+
+}
+else if(n1==n2){
+    alert(`Os números são iguais!`);
+
+}
+
+
+
+
+
+

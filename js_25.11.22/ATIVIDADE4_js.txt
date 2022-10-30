@@ -9,14 +9,27 @@
 </head>
 <body>
 
-    <!--<button onclick="window.alert('Parabéns! Você ganhou R$200'),
-    window.alert('Insira seus dados para receber')
-    let cpf = Number(prompt('Cpf'))
-    let cartao = Number(prompt('Cartão')) 
-    let agencia = Number(prompt('Agencia'))" 
-    >Clique Aqui!</button>-->
-
 <script src="main.js"></script>
     
 </body>
 </html>
+
+const Pessoa = 
+{
+    idade:23,
+    nome:" Lucas ",
+    altura:"1,79 ",
+    etnia:"branco ",
+    pai:"Thiago ",
+    mae:"Luiza ",
+}
+
+document.write
+(
+Pessoa.idade,
+Pessoa.nome,
+Pessoa.altura,
+Pessoa.etnia,
+Pessoa.pai,
+Pessoa.mae
+);

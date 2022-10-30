@@ -9,12 +9,12 @@
 </head>
 <body>
 
-    <!--<button onclick="window.alert('Parabéns! Você ganhou R$200'),
+    <button onclick="window.alert('Parabéns! Você ganhou R$200'),
     window.alert('Insira seus dados para receber')
     let cpf = Number(prompt('Cpf'))
     let cartao = Number(prompt('Cartão')) 
     let agencia = Number(prompt('Agencia'))" 
-    >Clique Aqui!</button>-->
+    >Clique Aqui!</button>
 
 <script src="main.js"></script>
     

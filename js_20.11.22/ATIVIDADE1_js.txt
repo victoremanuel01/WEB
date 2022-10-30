@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 1</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+<script>alert('Digite 5 números a seguir: ');
+    let n1 = Number(prompt('1- '));
+    let n2 = Number(prompt('2- '));
+    let n3 = Number(prompt('3- '));
+    let n4 = Number(prompt('4- '));
+    let n5 = Number(prompt('5- '));
+    let r = n1+n2+n3+n4+n5/5;
+alert(`Resultado da média dos números apresentados: ${(r)}`);
+</script>
+    
+</body>
+</html>

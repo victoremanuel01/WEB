@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 4</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+    <script src="main.js"></script>
+    
+</body>
+</html>
+
+let n1 = true;
+let n2 = 17;
+let n3 ={tipo:"rocha", cor:"cinza"}
+let n4 = "Pedra";
+alert(`${n4} é uma ${n3.tipo} de cor ${n3.cor} em sua maioria`)
+
